@@ -20,5 +20,6 @@ Im a aspiring software engineering student, currently studying at KMITL. For me,
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🔥 Fun Fact
 I hold a world record—specifically, the record for 'Most Consecutive Days Not Winning a Formula 1 Grand Prix.' I’m currently on a multi-decade streak and show no signs of slowing down.
+And I also like football
 
 ---
