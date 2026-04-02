@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a aspiring software engineering student, currently studying at KMITL. I am passionate about creating big things from scratch.
+Im a aspiring software engineering student, currently studying at KMITL. For me, code is the ultimate tool for turning 'what if' into 'it's live.'
 
 
 ## 🌐 Socials:
