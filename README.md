@@ -9,8 +9,12 @@ I like taking things apart to see how they work, from systems level code to RAG 
 - Systems programming (Rust, C, C++)
 - Data structures & algorithms
 - Data-driven web apps
+---
+ 
 ### Toolbox
 Python · JavaScript · Java · C++ · C · Rust · React · REST APIs · Power BI · pandas · Git
+ 
+---
  
 ### Projects
  
@@ -28,10 +32,14 @@ See more on the [repositories tab](https://github.com/SaaimCash?tab=repositories
  
 **Right now:** building out `rag-qa-webapp` and sharpening backend fundamentals.
  
+---
+ 
 ### Stats
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaaimCash&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaimCash&theme=dark&hide_border=true&layout=compact)
+ 
+---
  
 ### Get in touch
 📧 [saaimchashoo07@gmail.com](mailto:saaimchashoo07@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/saaim-chashoo-5598ab374) · 💻 [GitHub](https://github.com/SaaimCash)
