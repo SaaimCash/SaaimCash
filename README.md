@@ -18,7 +18,7 @@ Python · JavaScript · Java · C++ · C · Rust · React · REST APIs · Power 
  
 ### Projects
  
-**basic_rag_app** — lightweight, ultra-fast FAQ assistant designed to answer questions about Harvard's CS50 course using a Retrieval-Augmented Generation (RAG) architecture.
+**basic_rag_app** — lightweight, ultra-fast FAQ assistant designed to answer questions using a Retrieval-Augmented Generation (RAG) architecture.
  
 **rag-qa-webapp** *(in progress)* — RAG mini-project with document chunking, ChromaDB storage, and anti-hallucination guardrails.
  
