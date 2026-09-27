@@ -1,7 +1,7 @@
 ## Saaim Chashoo
 Software Engineering Student, KMITL — Bangkok, Thailand
  
-I like taking things apart to see how they work — from systems-level code to RAG pipelines that actually cite their sources instead of making things up.
+I like taking things apart to see how they work, from systems level code to RAG pipelines that actually cite their sources instead of making things up.
  
 **Focus areas**
 - Retrieval-Augmented Generation & LLM tooling
