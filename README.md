@@ -1,23 +1,37 @@
-# 💫 About Me:
-Im a aspiring software engineering student, currently studying at KMITL. 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/saaim-chashoo-5598ab374) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saaimchashoo07@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![React](https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SaaimCash&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SaaimCash&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaimCash&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=SaaimCash&icon=0&color=0)](https://visitcount.itsvg.in)
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🔥 Fun Fact
-I hold a world record for 'Most Consecutive Days Not Winning a Formula 1 Grand Prix.' I’m currently on a multi-decade streak and show no signs of slowing down.
-And I also like football
-
----
+## Saaim Chashoo
+Software Engineering Student, KMITL — Bangkok, Thailand
+ 
+I like taking things apart to see how they work — from systems-level code to RAG pipelines that actually cite their sources instead of making things up.
+ 
+**Focus areas**
+- Retrieval-Augmented Generation & LLM tooling
+- Backend development (APIs, application logic)
+- Systems programming (Rust, C, C++)
+- Data structures & algorithms
+- Data-driven web apps
+### Toolbox
+Python · JavaScript · Java · C++ · C · Rust · React · REST APIs · Power BI · pandas · Git
+ 
+### Projects
+ 
+**basic_rag_app** — Context-aware Q&A over long-form video using transcription, semantic chunking, and vector embeddings.
+ 
+**rag-qa-webapp** *(in progress)* — RAG mini-project with document chunking, ChromaDB storage, and anti-hallucination guardrails.
+ 
+**recipe-explorer-lite** — FastAPI web app for managing recipes: full CRUD, search, file uploads, Bootstrap frontend.
+ 
+**disk-usage-visualizer** — Cross-platform Rust app for scanning directories, visualizing usage, and catching duplicate files.
+ 
+**Thailand-Facility-Explorer** — Map-based tool for locating schools and hospitals across Thailand, with regional filtering and dashboards.
+ 
+See more on the [repositories tab](https://github.com/SaaimCash?tab=repositories).
+ 
+**Right now:** building out `rag-qa-webapp` and sharpening backend fundamentals.
+ 
+### Stats
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaaimCash&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaaimCash&theme=dark&hide_border=true&layout=compact)
+ 
+### Get in touch
+📧 [saaimchashoo07@gmail.com](mailto:saaimchashoo07@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/saaim-chashoo-5598ab374) · 💻 [GitHub](https://github.com/SaaimCash)
