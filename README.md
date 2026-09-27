@@ -7,7 +7,7 @@ I like taking things apart to see how they work, from systems level code to RAG 
 - Retrieval-Augmented Generation & LLM tooling
 - Backend development (APIs, application logic)
 - Systems programming (Rust, C, C++)
-- Data structures & algorithms
+- Problem Solving (Data structures & algorithms)
 - Data-driven web apps
 ---
  
